@@ -1,0 +1,49 @@
+
+
+#banner-image
+{
+    padding-top: 75px;      
+    padding-bottom: 50px;
+    text-align: center; 
+    color: #f8f8f8; 
+    background: url(bag.png) no-repeat center center; 
+    background-size: cover; 
+}
+#banner-content
+{
+    position:relative; 
+    padding-top: 6%; 
+    padding-bottom: 6%; 
+    margin-top: 12%; 
+    margin-bottom: 12%; 
+    background-color: rgba(0, 0, 0, 0.7); 
+    max-width: 660px; 
+    overflow: hidden;
+}
+
+
+#background-color{
+    position:relative;
+    background-color:#96CB7F;
+    height:300px;
+    width:relative;
+}
+.pad{
+    padding-top: 0;
+    margin-top: 0;
+}
+body{
+    margin-top:0;
+    padding: 0;
+}
+.btn {
+    background-color:#96CB7F;
+}
+.btn1{
+    background-color:#b2beb5;
+    
+}
+.panel{
+    background-color: #FFFFFF;
+}
+
